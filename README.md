@@ -1,5 +1,6 @@
 InterActive
-- is a fictional page as my submission test. the name is taken from the font used: inter
+- is a fictional page for 3equals submission test. 
+- the name is taken from the font used: inter
 
 Setup instruction
 - install dependencies using npm > npm install
